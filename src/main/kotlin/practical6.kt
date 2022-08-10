@@ -1,9 +1,9 @@
 fun main(){
-    add(111, 2222, -222)
-    sub(111, 2222, -222)
-    mul(111, 2222, -222)
-    div(2222,111)
-    mod(2222,111)
+        add(111, 2222, -222)
+        sub(111, 2222, -222)
+        mul(111, 2222, -222)
+        div(2222, 111)
+        mod(2222, 111)
 }
 fun add(a:Int, b:Int, c:Int){
    println("Addition of $a, $b, $c is ${a + b + c}")
