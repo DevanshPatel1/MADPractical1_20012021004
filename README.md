@@ -11,3 +11,5 @@
 ![Screenshot (27)](https://user-images.githubusercontent.com/79247567/183855753-ac426635-6cf8-45ba-8d9f-a12bf6718d0e.png)
 # Practical6
 ![Screenshot (28)](https://user-images.githubusercontent.com/79247567/183859697-8c3107a6-cf9f-4494-b0d5-927a84e2f059.png)
+# Practical7
+![Screenshot (506)](https://user-images.githubusercontent.com/79247567/185777663-8310633d-4efd-44fe-9ff9-4abca855dd09.png)
