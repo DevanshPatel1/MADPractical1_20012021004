@@ -18,6 +18,6 @@
 # Practical9
 ![Screenshot (511)](https://user-images.githubusercontent.com/79247567/186227803-c59692dd-3a66-40f8-867a-df08c20fd1c8.png)
 # Practical10
-![Screenshot (513)](https://user-images.githubusercontent.com/79247567/186228237-7ff861be-f793-4a77-a711-c6581f92f37f.png)
+![Screenshot (514)](https://user-images.githubusercontent.com/79247567/186229454-944cfe95-f8f6-4bb1-9f02-e0170c71ddf9.png)
 # Practical11
 ![Screenshot (512)](https://user-images.githubusercontent.com/79247567/186227919-e79336a6-0cd9-423d-b538-54e54c449767.png)
