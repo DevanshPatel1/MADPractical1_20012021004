@@ -11,10 +11,10 @@ class Car(type:String, model:String, owner:String, miles:Int, price:Int, cprice:
     }
 }
 fun main() {
-    var cars = arrayOf(Car("BMW","2018","Aman",105,100000, 98950),
-        Car("BMW","2019","Karan",20,400000, 399800),
-        Car("Toyota","2017","KJS",100,1080000, 1079000),
-        Car("Maruti", "2020", "NPP", 200, 4000000, 3998000))
+    var cars = arrayOf(Car("BMW","2018","Dev",105,100000, 98950),
+        Car("Ferrari","2019","Raj",20,400000, 399800),
+        Car("Tata","2017","Nirnay",100,1080000, 1079000),
+        Car("Honda", "2020", "Abhi", 200, 4000000, 3998000))
     println("Creating Car Class Object car1 in next line")
     println("Object of class is created and Init is called.\n-----")
     for (i in cars){
